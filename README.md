@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning analyzing data using python and R
 - 💞️ I’m looking to collaborate on python users or companies
 - 📫 How to reach me kakaoID : tnswn34 
-- 📫 How to reach me email : gogosoonju@aver.com   or   gogosoonju@gmail.com
+- 📫 How to reach me email : gogosoonju@naver.com   or   gogosoonju@gmail.com
 
 
 
