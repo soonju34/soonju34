@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soonju34
 - 👀 I’m interested in alcoholic beverage and listening music all ground etc
-- 🌱 I’m currently learning analyzing data using python #3776AB and R also i'm interested in YOLO and ray tracing.
+- 🌱 I’m currently learning analyzing data using python and R also i'm interested in YOLO and ray tracing.
 - 💞️ I’m looking to collaborate on python users or companies
 - 📫 How to reach me kakaoID : tnswn34 
 - 📫 How to reach me email : gogosoonju@naver.com   or   gogosoonju@gmail.com
